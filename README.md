@@ -1,0 +1,1 @@
+# cherriz-training-maven
